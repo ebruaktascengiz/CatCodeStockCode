@@ -1,0 +1,44 @@
+Genel:
+
+ANA BAŞLIK: Delegasyon:
+
+Soru: Aşağıdaki 3 RFQ yu X bey’in devir almasını ve originator olmasını istiyoruz.Acaba nasıl yapabiliriz?
+Cevap: 2 secenek var:
+1.yol: Drafta cekip oriignator değiştirebilirsinz,
+2.yol:Yetkilerinizi kubilay beye delege edebilirsiniz (cloud.enka.com/EgAS - > given delegation sekmesi)
+-----
+Soru: We need you to extend Petar Pavlovic’s authorization to Nenad, Marina and Furkan until the end of the year.Thank you.
+Yanıt: Only our IT team can create delegation for users. Please contact with ITSupport@enka.com 
+------
+
+
+ANA BAŞLIK: MR Modulu:
+Soru: MR/SR'ı kim açar?
+Yanıt: Talep sahibi tarafından oluşturulur. Yetki yoksa eğer ENKA Dashboard rol talep modulü üzerinden talep edilir.
+--
+Soru: MR/SR açarken uygun kategori kodu bulamadım.
+Yanit: M/SR'daki kategori kodunu açarken malzeme veya hizmeti sağlayacak firmalar düşünülmelidir. Kelime bazlı veya grup bazında inceleme yapabilirsiniz. Doğru kodu bulmakta sorun yaşıyorsanız egpssupport@enka.com ile iletişime geçebilirsiniz.
+--
+Soru: MR/SR açarken hatalı commodity code seçtim. Nasıl düzeltirim?
+Yanıt: MR/SR üst sekmelerinde bulunan "Change MR Number" sekmesi aracılığıyla düzenlemeleri sağlayabilirsiniz. Bu sekme sayesinde döküman onaya girmeden düzenleme sağlamak mümkün.
+--
+
+Soru:MR / SR seçerken doğru BLIO/Onaycı/commodity code  ismini göremiyorum veya bulunmuyor.
+Yanıt: ENKA Dashboard'daki rol talep modulu üzerinden yetki talebinde bulunmanız gerekiyor.
+
+
+ANA BAŞLIK: RFQ Modulu:
+
+
+
+Soru: Bu RFQ da Q&A closure date i uzatmak istiyoruz. Cancel this RFQ yaparak yapabiliyorum sanırım fakat competitive RFQ su tamamlandığı için bu şekilde yapmamız uygun olur mu?
+Cevap: Q&A değiştirme işlemi sadece draft asamasında yapılabiliyor. Competitive RFQ ve ihale içeren süreçleri sadece ihale ekibi drafta alabiliyor, İhale ekibiyle iletişime geçebilirsiniz.  
+-----
+
+Soru: PO oluştururken KDV otomatik olarak %18 geliyor, otomatik olarak % 20 gelmesi mümkün müdür ? 
+Cevap: Evet, proje bazında default VAT (KDV) belirlenmesi için egpssupport@enka.com a mail iletebilirsiniz.
+
+-- 
+Soru: RFQ'da teknik değerlendirme oluşturmak istiyorum ama sayfa boş gözüküyor.
+Cevap: RFQ Main sekmesinde "Technical Admin" alanında ismi seçili olan kişi sadece bu sayfada işlem yapabilir. İsim seçilmemise seçmeniz gerekiyor.
+
